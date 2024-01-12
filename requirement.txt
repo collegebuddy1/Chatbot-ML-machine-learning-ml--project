@@ -1,0 +1,11 @@
+scikit learn
+numpy
+pyttsx3
+pandas
+matplotlib
+seaborn
+nltk
+wikipedia 
+webrowser
+sqlite3
+tkinter
